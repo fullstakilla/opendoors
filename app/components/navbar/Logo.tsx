@@ -21,7 +21,7 @@ const Logo = () => {
         <span 
             onClick={() => router.push("/")}
             className='text-bold text-lg'
-        >Open Doors</span>
+        >Open Your Doors</span>
     )
 }
 

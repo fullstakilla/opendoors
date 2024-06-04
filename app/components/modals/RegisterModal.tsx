@@ -58,7 +58,7 @@ const RegisterModal = () => {
     const bodyContent = (
         <div className="flex flex-col gap-4">
             <Heading 
-                title="Welcome to Open Doors"
+                title="Welcome to Open Your Doors"
                 subtitle="Create an account"
             />
             <Input
